@@ -22,7 +22,7 @@ pod 'JWAlertView'
 
 ## Author
 
-15055480, joshwalton5772@gmail.com
+Josh Walton, joshwalton5772@gmail.com
 
 ## License
 
